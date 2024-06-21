@@ -13,7 +13,7 @@ public class Main {
     public static void startProject() {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Choose section  1-register  2-Show all  3-Search  4-Update  5-Delete  6-Exit");
+        System.out.println("Choose section  1-register  2-Show all  3-Search  4-Update  5-Delete  6-Exit 0");
         int section = sc.nextInt();
 
         switch (section) {
