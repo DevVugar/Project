@@ -1,4 +1,4 @@
-package EmployeeSystem.Builder.Data;
+package EmployeeSystem.Builder;
 
 import EmployeeSystem.Builder.Util.*;
 
