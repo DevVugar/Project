@@ -11,7 +11,8 @@ public class Main {
 
 
     public static void startProject() {
-
+        Scanner scc = new Scanner(System.in);
+        Scanner sccc = new Scanner(System.in);
         Scanner sc = new Scanner(System.in);
         System.out.println("Choose section  1-register  2-Show all  3-Search  4-Update  5-Delete  6-Exit");
         int section = sc.nextInt();
